@@ -1,0 +1,2 @@
+# OperatsClassifier
+Klasyfikator plików operatu
